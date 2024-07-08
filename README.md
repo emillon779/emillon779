@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">I'am nuclear data software engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:egoemil@gmail.com</h3>
 <p align="left">
 </p>
 
